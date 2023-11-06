@@ -3,6 +3,7 @@ body {
     margin: 0px;
     font-family: Arial, Helvetica, sans-serif;
     font-weight: 100;
+    color: bisque;
 }
 
 
@@ -28,16 +29,28 @@ header {
     font-size: 17px;
 }
 
+/* nomes els elements a de nav_menu */
 .nav_menu a {
     text-decoration: none;
     color: bisque;
 }
 
-.main_table {
+.section {
+    color: #000000;
     padding: 10px;
+    margin: 15px auto;
     margin-bottom: 15px;
-    width: 90%;
-    background-color: blue;
+    width: 97%;
+    background-color: #e4e1e1;
 }
 
+
+footer {
+    background-color: darkslategrey;
+    text-align: center;
+    padding: 10px;
+    margin-top: 10px;
+    bottom: 0px;
+    width: 100%;
+}
 
