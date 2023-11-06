@@ -29,7 +29,7 @@ header {
     font-size: 17px;
 }
 
-/* nomes els elements a de nav_menu */
+/* nomes els elements */
 .nav_menu a {
     text-decoration: none;
     color: bisque;
@@ -38,7 +38,7 @@ header {
 .section {
     color: #000000;
     padding: 10px;
-    margin: 15px auto;
+    margin: 10px auto;
     margin-bottom: 15px;
     width: 97%;
     background-color: #e4e1e1;
@@ -48,9 +48,10 @@ header {
 footer {
     background-color: darkslategrey;
     text-align: center;
-    padding: 10px;
-    margin-top: 10px;
+    padding-top: 10px;
+    padding-bottom: 10px;
     bottom: 0px;
     width: 100%;
+
 }
 
